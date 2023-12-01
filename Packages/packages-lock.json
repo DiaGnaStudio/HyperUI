@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.dgs.attribute": {
+      "version": "file:com.dgs.Attribute",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.dgs.userinterface": {
+      "version": "file:com.dgs.UserInterface",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.dgs.attribute": "0.1.0"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.7",
       "depth": 0,

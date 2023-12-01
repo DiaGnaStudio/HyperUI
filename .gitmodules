@@ -1,3 +1,6 @@
 [submodule "Packages/com.dgs.UserInterface"]
 	path = Packages/com.dgs.UserInterface
 	url = https://github.com/DiaGnaPackages/com.dgs.UserInterface.git
+[submodule "Packages/com.dgs.Attribute"]
+	path = Packages/com.dgs.Attribute
+	url = https://github.com/DiaGnaPackages/com.dgs.Attribute.git
