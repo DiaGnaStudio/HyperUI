@@ -1,0 +1,19 @@
+{
+    "name": "Uds.HyperUI.Home",
+    "rootNamespace": "Uds.HyperUI.Home",
+    "references": [
+        "Unity.TextMeshPro",
+        "DiaGna.UserInterface"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
